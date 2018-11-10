@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>tr.edu.iku</groupId>
+	<artifactId>oop</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Java OOP Course</name>
+	<description>This is a project to collect all the Java OOP course material</description>
+	<organization>
+		<name>İstanbul Kültür University</name>
+	</organization>
+	<developers>
+		<developer>
+			<name>ilker Kopan</name>
+			<email>ilkerko@gmail.com</email>
+			<organization>Department of Industrial Engineering</organization>
+			<roles>
+				<role>Course instructor</role>
+			</roles>
+		</developer>
+	</developers>
+</project>
