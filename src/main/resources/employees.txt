@@ -1,0 +1,7 @@
+firstname,lastname,ssn,employee type,salary
+Burak,Hasici,12345,comission,50000,0.10
+Zeynep,Gunay,11223,salary,20000
+Elif,Yuzen,19031,hourly,200,50
+Huthifa,Kullab,9876,basePlusComission,1000,30000,0.05
+Furkan,Sevinc,4678686,salary,3000
+Talha,Almaki,123123,basePlusComission,10000,20000,0.08
