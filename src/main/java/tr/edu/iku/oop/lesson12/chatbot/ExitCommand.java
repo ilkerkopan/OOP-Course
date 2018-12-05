@@ -7,14 +7,13 @@ public class ExitCommand extends CommandBase implements Command {
 		// TODO Auto-generated constructor stub
 	}
 
-	@Override
 	public void execute(String argument) {
+		System.out.println("bye...");
 		System.exit(0);
 	}
 
-	@Override
 	public String commandDescription() {
-		return "exit will terminate chatbot";
+		return "type 'exit' to terminate chatbot";
 	}
 
 }

@@ -17,10 +17,8 @@ public class RemoveCommand extends CommandBase implements Command {
 
 	}
 
-	@Override
 	public String commandDescription() {
-		// TODO Auto-generated method stub
-		return null;
+		return "type 'remove <item>' to remove an item";
 	}
 
 }

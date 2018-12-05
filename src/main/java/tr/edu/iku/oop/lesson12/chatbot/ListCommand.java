@@ -18,8 +18,7 @@ public class ListCommand extends CommandBase implements Command {
 
 	@Override
 	public String commandDescription() {
-		// TODO Auto-generated method stub
-		return null;
+		return "type 'list' to list an items";
 	}
 
 }

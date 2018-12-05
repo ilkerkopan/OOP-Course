@@ -11,10 +11,8 @@ public class AddCommand extends CommandBase implements Command {
 		System.out.println("item " + argument + " added.");
 	}
 
-	@Override
 	public String commandDescription() {
-		// TODO Auto-generated method stub
-		return null;
+		return "type 'add <item>' to add an item";
 	}
 
 }
